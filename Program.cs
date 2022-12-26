@@ -1,6 +1,6 @@
 ﻿namespace Day03_Practice_Program
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -15,10 +15,16 @@
             UC3.uc3();
 
             UC4.uc4();
-
+            
             UC5.uc5();
 
             UC6.uc6();
+
+            UC7.uc7();
+
+            UC8.uc8();
+
+            UC9.uc9();
         }
     }
 }
